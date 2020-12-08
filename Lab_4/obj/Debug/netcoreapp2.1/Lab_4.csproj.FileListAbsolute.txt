@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_4\Lab_4\bin\Debug\netcoreapp2.1\Lab_4.deps.json
+D:\Object-oriented_programming\Lab_4\Lab_4\bin\Debug\netcoreapp2.1\Lab_4.runtimeconfig.json
+D:\Object-oriented_programming\Lab_4\Lab_4\bin\Debug\netcoreapp2.1\Lab_4.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_4\Lab_4\bin\Debug\netcoreapp2.1\Lab_4.dll
+D:\Object-oriented_programming\Lab_4\Lab_4\bin\Debug\netcoreapp2.1\Lab_4.pdb
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.dll
+D:\Object-oriented_programming\Lab_4\Lab_4\obj\Debug\netcoreapp2.1\Lab_4.pdb

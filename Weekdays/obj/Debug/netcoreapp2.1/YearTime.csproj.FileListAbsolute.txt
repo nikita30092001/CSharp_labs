@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_4\Weekdays\bin\Debug\netcoreapp2.1\YearTime.deps.json
+D:\Object-oriented_programming\Lab_4\Weekdays\bin\Debug\netcoreapp2.1\YearTime.runtimeconfig.json
+D:\Object-oriented_programming\Lab_4\Weekdays\bin\Debug\netcoreapp2.1\YearTime.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_4\Weekdays\bin\Debug\netcoreapp2.1\YearTime.dll
+D:\Object-oriented_programming\Lab_4\Weekdays\bin\Debug\netcoreapp2.1\YearTime.pdb
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.dll
+D:\Object-oriented_programming\Lab_4\Weekdays\obj\Debug\netcoreapp2.1\YearTime.pdb

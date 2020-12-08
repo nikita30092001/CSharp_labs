@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_4\The Greatest\bin\Debug\netcoreapp2.1\The Greatest.deps.json
+D:\Object-oriented_programming\Lab_4\The Greatest\bin\Debug\netcoreapp2.1\The Greatest.runtimeconfig.json
+D:\Object-oriented_programming\Lab_4\The Greatest\bin\Debug\netcoreapp2.1\The Greatest.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_4\The Greatest\bin\Debug\netcoreapp2.1\The Greatest.dll
+D:\Object-oriented_programming\Lab_4\The Greatest\bin\Debug\netcoreapp2.1\The Greatest.pdb
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.dll
+D:\Object-oriented_programming\Lab_4\The Greatest\obj\Debug\netcoreapp2.1\The Greatest.pdb

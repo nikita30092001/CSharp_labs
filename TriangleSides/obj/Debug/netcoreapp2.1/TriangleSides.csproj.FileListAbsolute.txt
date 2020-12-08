@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_4\TriangleSides\bin\Debug\netcoreapp2.1\TriangleSides.deps.json
+D:\Object-oriented_programming\Lab_4\TriangleSides\bin\Debug\netcoreapp2.1\TriangleSides.runtimeconfig.json
+D:\Object-oriented_programming\Lab_4\TriangleSides\bin\Debug\netcoreapp2.1\TriangleSides.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_4\TriangleSides\bin\Debug\netcoreapp2.1\TriangleSides.dll
+D:\Object-oriented_programming\Lab_4\TriangleSides\bin\Debug\netcoreapp2.1\TriangleSides.pdb
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.dll
+D:\Object-oriented_programming\Lab_4\TriangleSides\obj\Debug\netcoreapp2.1\TriangleSides.pdb

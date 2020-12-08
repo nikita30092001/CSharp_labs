@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_4\Multiplicity\bin\Debug\netcoreapp2.1\Multiplicity.deps.json
+D:\Object-oriented_programming\Lab_4\Multiplicity\bin\Debug\netcoreapp2.1\Multiplicity.runtimeconfig.json
+D:\Object-oriented_programming\Lab_4\Multiplicity\bin\Debug\netcoreapp2.1\Multiplicity.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_4\Multiplicity\bin\Debug\netcoreapp2.1\Multiplicity.dll
+D:\Object-oriented_programming\Lab_4\Multiplicity\bin\Debug\netcoreapp2.1\Multiplicity.pdb
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.dll
+D:\Object-oriented_programming\Lab_4\Multiplicity\obj\Debug\netcoreapp2.1\Multiplicity.pdb
