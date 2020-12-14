@@ -1,0 +1,11 @@
+D:\Object-oriented_programming\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.deps.json
+D:\Object-oriented_programming\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.runtimeconfig.json
+D:\Object-oriented_programming\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.runtimeconfig.dev.json
+D:\Object-oriented_programming\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.dll
+D:\Object-oriented_programming\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.pdb
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.csprojAssemblyReference.cache
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.csproj.CoreCompileInputs.cache
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.AssemblyInfoInputs.cache
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.AssemblyInfo.cs
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.dll
+D:\Object-oriented_programming\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.pdb
